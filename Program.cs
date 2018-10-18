@@ -19,6 +19,6 @@ namespace Calculator
             Application.Run(new MainForm());
         }
         /// 아무것도 안 바꿨지롱 ㅋㅋㅋ
-        Console.WriteLine()
+        Console.WriteLine();// 끝에 세미콜론 빠트렸다.
     }
 }
