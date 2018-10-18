@@ -20,5 +20,6 @@ namespace Calculator
         }
         /// 아무것도 안 바꿨지롱 ㅋㅋㅋ
         Console.WriteLine();// 끝에 세미콜론 빠트렸다.
+        Console.WriteLine();// 한칸 더 띄움
     }
 }
