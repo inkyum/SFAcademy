@@ -19,6 +19,6 @@ namespace Calculator
             Application.Run(new MainForm());
         }
         /// 아무것도 안 바꿨지롱 ㅋㅋㅋ
-        WriteLine()
+        Console.WriteLine()
     }
 }
